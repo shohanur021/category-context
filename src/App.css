@@ -1,0 +1,22 @@
+.laptop{
+    margin-left: 30px;
+    background-color: #e9b832;
+    width:100px;
+    border-color: #e9b832;;
+    border-radius:3px
+}
+.mobile{
+    margin-left: 30px;
+    background-color: #e9b832;
+    width:100px;
+    border-color: #e9b832;;
+    border-radius:3px
+}
+.camera{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    background-color: #e9b832;
+    width:100px;
+    border-color: #e9b832;;
+    border-radius:3px
+}
